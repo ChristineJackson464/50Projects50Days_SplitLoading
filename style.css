@@ -75,7 +75,7 @@ h1 {
 
 .split.left {
     left: 0;
-    background: url('images/head.jpeg');
+    background: url('images/head4.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -90,7 +90,7 @@ h1 {
 
 .split.right {
     right: 0;
-    background: url('images/body.jpeg');
+    background: url('images/body2.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 }
